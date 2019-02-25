@@ -6,3 +6,4 @@ browsergames2018.com
 free.fromdoctopdf.com
 insticator.com
 pc.gs.instantfuns.com
+vjs.zencdn.net
