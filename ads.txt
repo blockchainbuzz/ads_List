@@ -11,6 +11,8 @@ aka-cdn.adtechus.co
 animemobile.com
 api.addefend.com
 arletrewhasi.pro
+#tweakers dns
+auth01.dns.trueserver.nl
 baylnk.com
 babunenhemted.pro
 beap.gemini.yahoo.com
